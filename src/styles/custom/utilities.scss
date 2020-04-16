@@ -1,0 +1,15 @@
+.translate-y-50 {
+    transform: translate3d(0, -50%, 0);
+}
+
+.tranform-50 {
+    transform: translate3d(-50%, -50%, 0);
+}
+
+.offset {
+    padding: 20px 10px;
+}
+
+.opacity-transition {
+    transition: opacity .3s ease-in-out;
+}
